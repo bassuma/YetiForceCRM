@@ -261,7 +261,7 @@ $languageStrings = [
 	'Notify Account On New comment added to ticket' => 'Notify Account on new comment added to ticket',
 	'LBL_OWNER_REKORD' => 'Record Owner',
 	'LBL_SMTP' => 'SMTP',
-	'LBL_CHECK_EMAIL_OPTOUT' => 'Verify if recipient agreed to receive e-mails',
+	'LBL_CHECK_EMAIL_OPTOUT' => 'Verifique se o destinatário concordou em receber e-mails',
 ];
 $jsLanguageStrings = [
 	'JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE' => 'Same fields selected more than once',
