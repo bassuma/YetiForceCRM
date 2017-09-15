@@ -38,6 +38,7 @@ $languageStrings = [
 	'FL_TYPE' => 'Tipo',
 	'LBL_MARK_AS_READ' => 'Marcar como lida',
 	'LBL_NO_NOTIFICATIONS' => 'Sem Notificações',
+	'LBL_NO_UNREAD_NOTIFICATIONS' => 'Sem Notificações',
 	'LBL_NOTIFICATION_SETTINGS' => 'Configurações de Notificações',
 ];
 $jsLanguageStrings = [
